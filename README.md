@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
-<h1 align="center">Hi 👋, I'm I'm Hiroki Saito</h1>
+<h1 align="center">Hi 👋, I'm Hiroki Saito</h1>
 
 <p align="center">
   <img src="https://github.com/icedev528/icedev528/blob/main/Logo.gif" />
@@ -26,7 +26,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
+![Profile views counter](https://komarev.com/ghpvc/?username=hirokisaito912&&style=flat-square)    
 
 ## Languages and Tools  
 <div style="display: flex; align-items: flex-start; align: center">
@@ -111,20 +111,20 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" />
-      <br>Rust
+      <img src="https://skillicons.dev/icons?i=swift" width="40" height="40" alt="Swift" />
+      <br>Swift
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Golang" />
-      <br>Go
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" />
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" />
       <br>Solidity
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" />
+      <br>Flutter
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
@@ -149,8 +149,8 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
